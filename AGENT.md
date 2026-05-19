@@ -1,5 +1,5 @@
 # AGENT.md — NebulaCode Project Memory
-_Initialized: 2026-05-19T13:17:55.863Z_
+_Initialized: 2026-05-19T13:20:35.557Z_
 
 ## Project Overview
 [The agent will fill this in after the first session]
