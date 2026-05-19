@@ -1,18 +1,20 @@
 # AGENT.md — NebulaCode Project Memory
-_Last updated: 2026-05-19T13:23:26.610Z_
+_Initialized: 2026-05-19T13:27:13.933Z_
 
-## Project
-Repo: agentfirstcode
-Session: bed459f5-bca3-4002-9b4f-d3c6b39e5018
+## Project Overview
+[The agent will fill this in after the first session]
 
 ## Completed Tasks
-None yet
+(none yet)
 
-## In Progress
-None
+## Architecture Decisions
+(none yet)
 
-## Files Modified
-No files generated yet
+## Known Issues & Resolutions
+(none yet)
 
-## Recent Session
-No tasks completed this session
+## File Map
+(populated by the agent)
+
+## Code Reviewer Notes
+(populated by Featherless after each session)
